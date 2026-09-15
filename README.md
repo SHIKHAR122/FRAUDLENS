@@ -64,4 +64,4 @@ The detection logic is written against a generic schema (`entity_id`, `tx_timest
 
 ## Author
 
-Shikhar Sharma — B.Tech CS (Batch 2027), PSIT Kanpur. Built as an individual project; submitted under a team designation for academic formality.
+Shikhar Sharma 
